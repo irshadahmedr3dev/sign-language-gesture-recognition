@@ -14,7 +14,7 @@ Please do cite it if you find this project useful. :)
 
 ## DataSet Used
 * [Argentinian Sign Language Gestures](https://facundoq.github.io/datasets/lsa64/). The dataset is made available strictly for academic purposes by the owners. Please read the license terms carefully and cite their paper if you plan to use the dataset.
-
+,,,...
 ## Requirements
 * Install [opencv](https://docs.opencv.org/trunk/d7/d9f/tutorial_linux_install.html).
   Note: **pip install opencv-python** does not have video capabilities. So I recommend to build it from source as described above.
